@@ -16,3 +16,4 @@
 *.rej
 
 .ipynb_checkpoints
+sandbox/
